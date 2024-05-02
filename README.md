@@ -1,15 +1,15 @@
 # Diário de bordo HTMl
 
-* <p></p> - cria um parágrafo;
-* <br> - quebra uma linha;
-* <hr> - cria uma linha;
-* Semântica - <h1></h1> até <h6></h6>;
-* <img src="nomedoarquivo.png" alt="descrição da imagem"> - colocar uma imgagem em html;
-* <table></table> - criar tabela;
-* <tr></tr> - cria as linhas da tabela;
-* <td></td> - cria as colunas da tabela;
-* <th></th> - cabeçalho da tabela;
-* rowspan - expande uma linha da minha tabela;
+* Semântica - h1 até h6;
+* br - quebra a linha;
+* hr - cria uma linha;
+* p - cria um parágrafo;
+* img e alt - colocar uma imagem, colocar o que está escrito na imagem;
+* table, tr, td, th - cria tabela, cria linha, cria coluna e cria o cabeçalho da tabela;
+* ol, ul, li - cria uma lista ordenada, cria uma lista não ordenada, lista de itens;
+* rowspan - expande uma linha da tabela;
 * colspan - expande minha tabela;
-* CTRL+K+C - comenta uma linha inteira;
-* <a href="linkdaimgem.jpg"> </a> - transforma algo em link, mas no caso está tranformando uma imagem em link;
+* ctrl+k+c - comenta uma linha inteira;
+* href - transforma algo em link;
+* input - cria controles interativos para formulário, onde você pode digitar, escolher, marcar e etc;
+* label - representa uma legenda para um controle interativo do formulário;
